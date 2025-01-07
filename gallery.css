@@ -27,11 +27,3 @@ body{
 img{
 		width:95%;
 }
-#image {
-    max-width: 90%;
-    height: auto;
-}
-.preview {
-    width: 15%;
-    margin: 1%;
-}
